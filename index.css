@@ -15,7 +15,7 @@ body {
 .container {
     border-radius: 1rem;
     max-width: 60%;
-   
+    align-self:center;
     background-color: white;
     display: flex;
     border: 1px solid black;
