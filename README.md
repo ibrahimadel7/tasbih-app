@@ -4,6 +4,6 @@ the project is a counter for tasbih
 ```
 
 
-- [there courses](https://scrimba.com/allcourses)
+- [thier courses](https://scrimba.com/allcourses)
 
 
